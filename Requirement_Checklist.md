@@ -1,4 +1,4 @@
-###**Module 1 Challenge == Requirements ==**
+### Module 1 Challenge Requirements
 
 **Company Information and Business Activities (15 points)**
 <ol>
