@@ -1,21 +1,50 @@
-### Assignment Analysis: Compliance with Requirements
+###**Module 1 Challenge == Requirements ==**
 
-#### 1. Company Information and Business Activities (15 points)
-- **AI Company Selected**: Yes - Shield AI, specializing in AI technology for defense applications.
-- **Detailed Description**: Covered in Sections 1 and 2, including the company's field, audience, solution, and business metrics.
+**Company Information and Business Activities (15 points)**
+<ol>
+<li>Select a company that utilizes AI technology. (5 points)</li>
 
-#### 2. FinTech Domain Trends (20 points)
-- **Synopsis of Trends**: Covered major trends and competitors in the military autonomous systems industry in Section 3. Note: Shield AI is not in the FinTech domain, but the assignment adapted to the context of military AI technology. I assume this section was in error, but adpated it to Sheild AI to be thorough.
+<li>Provide a detailed description of the company's field, audience, solution, and business metrics. (5 points)</li>
 
-#### 3. Research Depth (10 points)
-- **Multiple Sources and Cohesive View**: Various reputable sources used, detailed in Sections 1, 3, and 4.
-- **Specific Quotations and References**: All sources cited in the addendum, fulfilling the citation requirement.
+<li>Present company information in a clear and well-organized manner. (5 points)</li>
+</ol>
 
-#### 4. Recommendations (20 points)
-- **Thorough Explanation of Recommendations**: Comprehensive recommendations for future development and strategies provided in Section 5.
-- **Research-Based Recommendations**: Based on Shield AI’s capabilities and industry trends.
+**FinTech Domain Trends (20 points)**
+<ol>
+<li>Communicate a thorough synopsis of trends and landmarks in the chosen FinTech domain. (10 points)</li>
 
-#### 5. Report Presentation (35 points)
-- **README.md File in GitHub Repository**: Transferred content to GitHub.
-- **Markdown Elements Usage**: All sections formatted in Markdown, including headings, font styling, hyperlinks, and block quotes.
-- **Professional Report Style**: Written in a professional style, showcasing expertise and credibility.
+<li>Identify several major competitors. (10 points)</li>
+</ol>
+
+**Research Depth (10 points)**
+<ol>
+<li>Use multiple sources to present a thorough and cohesive view of the company's domain, history, and results. (5 points)</li>
+
+<li>Specifically quote sources and reference them clearly and accurately. (5 points)</li>
+</ol>
+
+**Recommendations (20 points)**
+<ol>
+<li>Thoroughly explain company recommendations. (10 points)</li>
+
+<li>Base company recommendations in solid research. (10 points)</li>
+</ol>
+
+**Report Presentation (35 points)**
+<ol>
+<li>Present the report in a README.md file in a GitHub repository. (15 points)</li>
+
+<li>*README.md* correctly uses at least one of each of the following:
+<ol>
+<li>Heading (2.5 points)</li>
+
+<li>Font styling (2.5 points)</li>
+
+<li>Hyperlink (2.5 points)</li>
+
+<li>Block Quote (2.5 points) </li>
+</ol>
+</li>
+</ol>
+
+The [report style](https://www.markdownguide.org/cheat-sheet/) showcases the writer's expertise and builds credibility. (10 points)
